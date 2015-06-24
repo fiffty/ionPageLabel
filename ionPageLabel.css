@@ -1,0 +1,7 @@
+.slider-pagelabel {
+  position:absolute;
+  bottom:40px;
+  z-index: 1;
+  width:100%;
+  text-align: center;
+}
